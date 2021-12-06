@@ -1,0 +1,6 @@
+2020-11-01T01:03,Beijing,China
+2020-11-01T01:03,Kabul,Afghanistan
+2020-11-01T01:03,Kampala,Uganda
+2020-11-08T01:03,Ottawa,Canada
+2020-11-01T01:03,Apia,Samoa
+2020-11-10T01:03,Brasilia,Brazil
